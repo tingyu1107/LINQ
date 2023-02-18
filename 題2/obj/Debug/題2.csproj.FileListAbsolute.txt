@@ -1,0 +1,8 @@
+C:\Users\wendy\Desktop\LINQ\題2\bin\Debug\題2.exe.config
+C:\Users\wendy\Desktop\LINQ\題2\bin\Debug\題2.exe
+C:\Users\wendy\Desktop\LINQ\題2\bin\Debug\題2.pdb
+C:\Users\wendy\Desktop\LINQ\題2\obj\Debug\題2.csproj.AssemblyReference.cache
+C:\Users\wendy\Desktop\LINQ\題2\obj\Debug\題2.csproj.SuggestedBindingRedirects.cache
+C:\Users\wendy\Desktop\LINQ\題2\obj\Debug\題2.csproj.CoreCompileInputs.cache
+C:\Users\wendy\Desktop\LINQ\題2\obj\Debug\題2.exe
+C:\Users\wendy\Desktop\LINQ\題2\obj\Debug\題2.pdb
